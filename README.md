@@ -40,6 +40,11 @@ The external sources of wasm files merged to the corpus.
 - Paweł Bylica [@chfast](https://github.com/chfast)
 
 
+## License
+
+Lincesed under the [Apache License, Version 2.0](./LICENSE).
+
+
 [corpus]: https://llvm.org/docs/LibFuzzer.html#corpus
 [Fizzy]: https://github.com/wasmx/fizzy
 [Fizzy Fuzzer]: https://github.com/wasmx/fizzy/tree/master/test/fuzzer
