@@ -12,12 +12,14 @@
 
 ## Wasm implementations
 
-The particular version of the fuzz-tested Wasm implementations.
+The particular versions of the fuzz-tested WebAssembly implementations.
 
-- [Fizzy]
-  - [0.3.0](https://github.com/wasmx/fizzy/releases/v0.3.0)
+- [Fizzy] 
+   ([0.3.0](https://github.com/wasmx/fizzy/releases/v0.3.0),
+    [0.5.0](https://github.com/wasmx/fizzy/releases/v0.5.0))
 - [WABT]
-  - [1.0.12](https://github.com/WebAssembly/wabt/releases/tag/1.0.12)
+  ([1.0.12](https://github.com/WebAssembly/wabt/releases/tag/1.0.12),
+   [1.0.19](https://github.com/WebAssembly/wabt/releases/tag/1.0.19))
 
 
 ## Fuzzing tools
